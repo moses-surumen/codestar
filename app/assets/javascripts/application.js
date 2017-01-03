@@ -21,4 +21,14 @@
 //= require master
 //= require jquery_ujs
 //= require ckeditor/init
+//= require bootstrap/scrollspy
+//= require bootstrap/modal
+//= require bootstrap/dropdown
+//= require bootstrap/affix
+//= require bootstrap/alert
+//= require bootstrap/button
+//= require bootstrap/carousel
+//= require bootstrap/tab
+//= require bootstrap/tooltip
+//= require bootstrap/transition
 //= require_tree .
