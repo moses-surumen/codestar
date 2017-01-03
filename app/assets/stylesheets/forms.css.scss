@@ -1,0 +1,170 @@
+.field {
+    .field-label {
+        font-weight: bold;
+    }
+}
+.field-label-inline {
+    .field-label {
+        float: left;
+    }
+    .field-items {
+        float: left;
+    }
+}
+form {
+    .field-multiple-table {
+        margin: 0;
+        th.field-label {
+            padding-left: 0;
+        }
+        td.field-multiple-drag {
+            width: 30px;
+            padding-right: 0;
+            a.tabledrag-handle {
+                padding-right: .5em;
+            }
+        }
+    }
+    .field-add-more-submit {
+        margin: .5em 0 0;
+    }
+}
+div.toboggan-container {
+    text-align: center;
+}
+div.toboggan-login-link-container {
+    text-align: left;
+    a {
+        text-decoration: none;
+    }
+}
+div.toboggan-block-message {
+    text-align: left;
+}
+div.user-login-block {
+    text-align: left;
+    a {
+        text-align: left;
+    }
+}
+.toboggan-unified {
+    #login-message {
+        text-align: center;
+        font-size: 2em;
+        line-height: 1.2;
+    }
+    #login-links {
+        text-align: center;
+        font-size: 1.5em;
+        line-height: 2.7;
+        a {
+            padding: .5em;
+            border: 1px #666 solid;
+            background-color: #EEE;
+            &:hover {
+                background-color: #DDD;
+            }
+        }
+        a.lt-active {
+            background-color: #FFF19A;
+            border: 2px #333 solid;
+            &:hover {
+                background-color: #FFF19A;
+                border: 2px #333 solid;
+            }
+        }
+    }
+}
+.toboggan-unified.login {
+    #register-form {
+        display: none;
+    }
+}
+.toboggan-unified.register {
+    #login-form {
+        display: none;
+    }
+}
+.node-unpublished {
+    background-color: #fff4f4;
+}
+.preview {
+    .node {
+        background-color: #ffffea;
+    }
+}
+td.revision-current {
+    background: #ffc;
+}
+.views-exposed-form {
+    .views-exposed-widget {
+        float: left;
+        padding: .5em 1em 0 0;
+        .form-submit {
+            margin-top: 1.6em;
+        }
+    }
+    .form-item {
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+    .form-submit {
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+    label {
+        font-weight: bold;
+    }
+}
+.views-exposed-widgets {
+    margin-bottom: .5em;
+}
+.views-align-left {
+    text-align: left;
+}
+.views-align-right {
+    text-align: right;
+}
+.views-align-center {
+    text-align: center;
+}
+.views-view-grid {
+    tbody {
+        border-top: none;
+    }
+}
+.view {
+    .progress-disabled {
+        float: none;
+    }
+}
+.rteindent1 {
+    margin-left: 40px;
+}
+.rteindent2 {
+    margin-left: 80px;
+}
+.rteindent3 {
+    margin-left: 120px;
+}
+.rteindent4 {
+    margin-left: 160px;
+}
+.rteleft {
+    text-align: left;
+}
+.rteright {
+    text-align: right;
+}
+.rtecenter {
+    text-align: center;
+}
+.rtejustify {
+    text-align: justify;
+}
+.ibimage_left {
+    float: left;
+}
+.ibimage_right {
+    float: right;
+}
