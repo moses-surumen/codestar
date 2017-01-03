@@ -38,6 +38,7 @@ group :development, :test do
   gem 'byebug', platform: :mri
 end
 
+gem 'mini_magick'
 
 gem 'simple_form', '~> 3.3', '>= 3.3.1'
 gem 'paperclip', '~> 5.1'
