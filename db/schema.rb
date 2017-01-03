@@ -72,8 +72,7 @@ ActiveRecord::Schema.define(version: 20161130004741) do
   create_table "courses", force: :cascade do |t|
     t.string   "title"
     t.text     "description"
-    t.string   "subdescription"
-    t.text     "body"
+    t.string   "link"
     t.datetime "created_at",         null: false
     t.datetime "updated_at",         null: false
     t.integer  "user_id"
