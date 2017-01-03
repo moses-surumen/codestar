@@ -11008,11 +11008,6 @@ html.sqs-modal-lightbox-open body {
     font-size: 12px;
     font-weight: 600;
     letter-spacing: 1px;
-<<<<<<< HEAD
-    font-family: "futura-pt";
-=======
-    font-family: "futura-pt" !important;
->>>>>>> 33b8e58e0884ea46a1c0470bf1d52641889cb387
     text-transform: uppercase;
     letter-spacing: 3px;
     font-weight: 300;
@@ -11032,11 +11027,6 @@ html.sqs-modal-lightbox-open body {
     font-size: 15px;
     font-weight: 600;
     letter-spacing: 1px;
-<<<<<<< HEAD
-    font-family: "futura-pt";
-=======
-    font-family: "futura-pt" !important;
->>>>>>> 33b8e58e0884ea46a1c0470bf1d52641889cb387
     text-transform: uppercase;
     letter-spacing: 2px;
     font-weight: 500;
@@ -11056,11 +11046,6 @@ html.sqs-modal-lightbox-open body {
     font-size: 20px;
     font-weight: 600;
     letter-spacing: 1px;
-<<<<<<< HEAD
-    font-family: "futura-pt";
-=======
-    font-family: "futura-pt" !important;
->>>>>>> 33b8e58e0884ea46a1c0470bf1d52641889cb387
     text-transform: uppercase;
     letter-spacing: 3px;
     font-weight: 500;
@@ -11986,11 +11971,6 @@ body:not(.button-style-default) .sqs-editable-button-font {
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-weight: 600;
     letter-spacing: 1px;
-<<<<<<< HEAD
-    font-family: "futura-pt";
-=======
-    font-family: "futura-pt" !important;
->>>>>>> 33b8e58e0884ea46a1c0470bf1d52641889cb387
     text-transform: uppercase;
     letter-spacing: 3px;
     font-weight: 300;
@@ -12147,11 +12127,6 @@ body:not(.button-style-default) .opentable-block .OT_Find_a_Table {
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-weight: 600;
     letter-spacing: 1px;
-<<<<<<< HEAD
-    font-family: "futura-pt";
-=======
-    font-family: "futura-pt" !important;
->>>>>>> 33b8e58e0884ea46a1c0470bf1d52641889cb387
     text-transform: uppercase;
     letter-spacing: 3px;
     font-weight: 300;
@@ -13445,12 +13420,6 @@ body {
 #siteWrapper {
     font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
     letter-spacing: 0px;
-<<<<<<< HEAD
-    font-family: futura-pt;
-=======
-    font-family: "futura-pt" !important;
-
->>>>>>> 33b8e58e0884ea46a1c0470bf1d52641889cb387
     font-weight: 400;
     font-style: normal;
     font-size: 16px;
@@ -13461,11 +13430,6 @@ body {
 .sqs-modal-lightbox-content .lightbox-inner .lightbox-content .form-wrapper {
     font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
     letter-spacing: 0px;
-<<<<<<< HEAD
-    font-family: futura-pt;
-=======
-    font-family: "futura-pt" !important;
->>>>>>> 33b8e58e0884ea46a1c0470bf1d52641889cb387
     font-weight: 400;
     font-style: normal;
     font-size: 16px;
@@ -13537,7 +13501,6 @@ h1,
 h2 {
     font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: 400;
-    font-family: "futura-pt" !important;
     font-size: 32px;
     line-height: 1.2em;
     text-transform: none;
@@ -13555,7 +13518,6 @@ h3 {
     letter-spacing: 0px;
     text-transform: none;
     line-height: 1.2em;
-    font-family: "futura-pt" !important;
     font-size: 18px;
     line-height: 1.3em;
     text-transform: uppercase;
@@ -13617,11 +13579,6 @@ blockquote {
 .comment-count {
     font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
     letter-spacing: 0px;
-<<<<<<< HEAD
-    font-family: futura-pt;
-=======
-    font-family: "futura-pt" !important;
->>>>>>> 33b8e58e0884ea46a1c0470bf1d52641889cb387
     font-weight: 400;
     font-style: normal;
     font-size: 16px;
@@ -13635,11 +13592,6 @@ blockquote {
     font-style: italic;
     font-size: 27px;
     line-height: 1.65em;
-<<<<<<< HEAD
-    font-family: "futura-pt";
-=======
-    font-family: "futura-pt" !important;
->>>>>>> 33b8e58e0884ea46a1c0470bf1d52641889cb387
     font-size: 28px;
     line-height: 1.4em;
     letter-spacing: 0px;
@@ -13714,11 +13666,6 @@ blockquote {
     font-size: 14px;
     letter-spacing: 1px;
     text-transform: uppercase;
-<<<<<<< HEAD
-    font-family: "futura-pt";
-=======
-    font-family: "futura-pt" !important;
->>>>>>> 33b8e58e0884ea46a1c0470bf1d52641889cb387
     font-size: 32px;
     text-transform: none;
     text-decoration: none;
@@ -13900,11 +13847,6 @@ body:not(.has-banner-image).transparent-header #header,
 #footer nav:not(.social-account-list) {
     font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
     letter-spacing: 1px;
-<<<<<<< HEAD
-    font-family: "futura-pt";
-=======
-    font-family: "futura-pt" !important;
->>>>>>> 33b8e58e0884ea46a1c0470bf1d52641889cb387
     font-size: 14px;
     text-transform: uppercase;
     text-decoration: none;
@@ -14049,11 +13991,6 @@ li.filter {
     font-weight: 600;
     font-size: 20px;
     letter-spacing: 2px;
-<<<<<<< HEAD
-    font-family: "futura-pt";
-=======
-    font-family: "futura-pt" !important;
->>>>>>> 33b8e58e0884ea46a1c0470bf1d52641889cb387
     font-size: 24px;
     text-transform: uppercase;
     letter-spacing: 3px;
@@ -14274,11 +14211,6 @@ li.filter {
     letter-spacing: 0px;
     text-transform: none;
     line-height: 1.5em;
-<<<<<<< HEAD
-    font-family: "futura-pt";
-=======
-    font-family: "futura-pt" !important;
->>>>>>> 33b8e58e0884ea46a1c0470bf1d52641889cb387
     font-weight: 300;
     font-style: normal;
     font-size: 18px;
@@ -14299,11 +14231,6 @@ li.filter {
     font-size: 48px;
     letter-spacing: 0px;
     line-height: 1em;
-<<<<<<< HEAD
-    font-family: "futura-pt";
-=======
-    font-family: "futura-pt" !important;
->>>>>>> 33b8e58e0884ea46a1c0470bf1d52641889cb387
     font-weight: 300;
     font-style: normal;
     font-size: 63px;
@@ -14325,11 +14252,6 @@ li.filter {
     font-weight: 700;
     font-size: 16px;
     letter-spacing: 1px;
-<<<<<<< HEAD
-    font-family: "futura-pt";
-=======
-    font-family: "futura-pt" !important;
->>>>>>> 33b8e58e0884ea46a1c0470bf1d52641889cb387
     font-weight: 400;
     font-style: normal;
     font-size: 15px;
@@ -14451,11 +14373,6 @@ li.filter {
     letter-spacing: 0px;
     text-transform: none;
     line-height: 1.5em;
-<<<<<<< HEAD
-    font-family: "futura-pt";
-=======
-    font-family: "futura-pt" !important;
->>>>>>> 33b8e58e0884ea46a1c0470bf1d52641889cb387
     font-weight: 300;
     font-style: normal;
     font-size: 18px;
@@ -14478,11 +14395,6 @@ li.filter {
     font-size: 48px;
     letter-spacing: 0px;
     line-height: 1em;
-<<<<<<< HEAD
-    font-family: "futura-pt";
-=======
-    font-family: "futura-pt" !important;
->>>>>>> 33b8e58e0884ea46a1c0470bf1d52641889cb387
     font-weight: 300;
     font-style: normal;
     font-size: 63px;
@@ -14502,11 +14414,6 @@ li.filter {
     font-weight: 700;
     font-size: 16px;
     letter-spacing: 1px;
-<<<<<<< HEAD
-    font-family: "futura-pt";
-=======
-    font-family: "futura-pt" !important;
->>>>>>> 33b8e58e0884ea46a1c0470bf1d52641889cb387
     font-weight: 400;
     font-style: normal;
     font-size: 15px;
@@ -15137,11 +15044,6 @@ body:not(.collection-type-gallery).banner-button-corner-style-pill.has-promoted-
     font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: 700;
     letter-spacing: 1px;
-<<<<<<< HEAD
-    font-family: "futura-pt";
-=======
-    font-family: "futura-pt" !important;
->>>>>>> 33b8e58e0884ea46a1c0470bf1d52641889cb387
     text-transform: uppercase;
     text-decoration: none;
     letter-spacing: 2px;
@@ -15215,11 +15117,6 @@ body:not(.collection-type-gallery).banner-button-corner-style-pill.has-promoted-
     font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: 600;
     letter-spacing: 1px;
-<<<<<<< HEAD
-    font-family: "futura-pt";
-=======
-    font-family: "futura-pt" !important;
->>>>>>> 33b8e58e0884ea46a1c0470bf1d52641889cb387
     font-size: 14px;
     text-transform: uppercase;
     text-decoration: none;
@@ -15398,11 +15295,6 @@ html.touch .squarespace-comments .comments-content .comment-list .comment .comme
 .sqs-block-summary-v2 .summary-title,
 .sqs-block-summary-v2 .summary-heading {
     font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
-<<<<<<< HEAD
-    font-family: "futura-pt";
-=======
-    font-family: "futura-pt" !important;
->>>>>>> 33b8e58e0884ea46a1c0470bf1d52641889cb387
     text-transform: uppercase;
     letter-spacing: 1px;
     font-weight: 400;
@@ -15784,7 +15676,6 @@ html.touch .squarespace-comments .comments-content .comment-list .comment .comme
     font-size: 48px;
     letter-spacing: 0px;
     line-height: 1em;
-    font-family: "futura-pt";
     font-weight: 300;
     font-style: normal;
     font-size: 63px;
@@ -15804,7 +15695,6 @@ html.touch .squarespace-comments .comments-content .comment-list .comment .comme
     letter-spacing: 0px;
     text-transform: none;
     line-height: 1.5em;
-    font-family: "futura-pt";
     font-weight: 300;
     font-style: normal;
     font-size: 18px;
@@ -15964,11 +15854,6 @@ html.touch .squarespace-comments .comments-content .comment-list .comment .comme
     font-size: 48px;
     letter-spacing: 0px;
     line-height: 1em;
-<<<<<<< HEAD
-    font-family: "futura-pt";
-=======
-    font-family: "futura-pt" !important;
->>>>>>> 33b8e58e0884ea46a1c0470bf1d52641889cb387
     font-weight: 300;
     font-style: normal;
     font-size: 63px;
@@ -15988,11 +15873,6 @@ html.touch .squarespace-comments .comments-content .comment-list .comment .comme
     letter-spacing: 0px;
     text-transform: none;
     line-height: 1.5em;
-<<<<<<< HEAD
-    font-family: "futura-pt";
-=======
-    font-family: "futura-pt" !important;
->>>>>>> 33b8e58e0884ea46a1c0470bf1d52641889cb387
     font-weight: 300;
     font-style: normal;
     font-size: 18px;
@@ -16015,11 +15895,6 @@ html.touch .squarespace-comments .comments-content .comment-list .comment .comme
     letter-spacing: 0px;
     text-transform: none;
     line-height: 1.5em;
-<<<<<<< HEAD
-    font-family: "futura-pt";
-=======
-    font-family: "futura-pt" !important;
->>>>>>> 33b8e58e0884ea46a1c0470bf1d52641889cb387
     font-weight: 300;
     font-style: normal;
     font-size: 18px;
@@ -16061,11 +15936,6 @@ html.touch .squarespace-comments .comments-content .comment-list .comment .comme
     letter-spacing: 0px;
     text-transform: none;
     line-height: 1.5em;
-<<<<<<< HEAD
-    font-family: "futura-pt";
-=======
-    font-family: "futura-pt" !important;
->>>>>>> 33b8e58e0884ea46a1c0470bf1d52641889cb387
     font-weight: 300;
     font-style: normal;
     font-size: 18px;
@@ -16947,11 +16817,6 @@ html.touch .squarespace-comments .comments-content .comment-list .comment .comme
     opacity: 1
 }
 .site-title-font {
-<<<<<<< HEAD
-    font-family: "futura-pt";
-=======
-    font-family: "futura-pt" !important;
->>>>>>> 33b8e58e0884ea46a1c0470bf1d52641889cb387
     font-size: 24px;
     text-transform: uppercase;
     letter-spacing: 3px;
@@ -16959,11 +16824,6 @@ html.touch .squarespace-comments .comments-content .comment-list .comment .comme
     font-style: normal
 }
 .nav-font {
-<<<<<<< HEAD
-    font-family: Open Sans;
-=======
-    font-family: "futura-pt" !important;
->>>>>>> 33b8e58e0884ea46a1c0470bf1d52641889cb387
     font-weight: 400;
     font-style: normal;
     font-size: 13px;
@@ -16972,11 +16832,6 @@ html.touch .squarespace-comments .comments-content .comment-list .comment .comme
     text-decoration: none
 }
 .nav-button-font {
-<<<<<<< HEAD
-    font-family: "futura-pt";
-=======
-    font-family: "futura-pt" !important;
->>>>>>> 33b8e58e0884ea46a1c0470bf1d52641889cb387
     text-transform: uppercase;
     text-decoration: none;
     letter-spacing: 2px;
@@ -16984,11 +16839,6 @@ html.touch .squarespace-comments .comments-content .comment-list .comment .comme
     font-style: normal
 }
 .banner-heading-font {
-<<<<<<< HEAD
-    font-family: "futura-pt";
-=======
-    font-family: "futura-pt" !important;
->>>>>>> 33b8e58e0884ea46a1c0470bf1d52641889cb387
     font-weight: 300;
     font-style: normal;
     font-size: 63px;
@@ -16997,11 +16847,6 @@ html.touch .squarespace-comments .comments-content .comment-list .comment .comme
     line-height: .75em
 }
 .banner-text-font {
-<<<<<<< HEAD
-    font-family: "futura-pt";
-=======
-    font-family: "futura-pt" !important;
->>>>>>> 33b8e58e0884ea46a1c0470bf1d52641889cb387
     font-weight: 300;
     font-style: normal;
     font-size: 18px;
@@ -17010,11 +16855,6 @@ html.touch .squarespace-comments .comments-content .comment-list .comment .comme
     line-height: 1.3em
 }
 .banner-button-font {
-<<<<<<< HEAD
-    font-family: "futura-pt";
-=======
-    font-family: "futura-pt" !important;
->>>>>>> 33b8e58e0884ea46a1c0470bf1d52641889cb387
     font-weight: 400;
     font-style: normal;
     font-size: 15px;
@@ -17023,11 +16863,6 @@ html.touch .squarespace-comments .comments-content .comment-list .comment .comme
     text-decoration: none
 }
 .body-font {
-<<<<<<< HEAD
-    font-family: futura-pt;
-=======
-    font-family: "futura-pt" !important;
->>>>>>> 33b8e58e0884ea46a1c0470bf1d52641889cb387
     font-weight: 400;
     font-style: normal;
     font-size: 16px;
@@ -17035,11 +16870,6 @@ html.touch .squarespace-comments .comments-content .comment-list .comment .comme
     line-height: 1.6em
 }
 .heading1-font {
-<<<<<<< HEAD
-    font-family: europa;
-=======
-    font-family: "europa" !important;
->>>>>>> 33b8e58e0884ea46a1c0470bf1d52641889cb387
     font-weight: 300;
     font-style: normal;
     font-size: 32px;
@@ -17048,11 +16878,6 @@ html.touch .squarespace-comments .comments-content .comment-list .comment .comme
     line-height: 1.2em
 }
 .heading2-font {
-<<<<<<< HEAD
-    font-family: "futura-pt";
-=======
-    font-family: "futura-pt" !important;
->>>>>>> 33b8e58e0884ea46a1c0470bf1d52641889cb387
     font-size: 32px;
     line-height: 1.2em;
     text-transform: none;
@@ -17061,11 +16886,6 @@ html.touch .squarespace-comments .comments-content .comment-list .comment .comme
     font-style: normal
 }
 .heading3-font {
-<<<<<<< HEAD
-    font-family: "futura-pt";
-=======
-    font-family: "futura-pt" !important;
->>>>>>> 33b8e58e0884ea46a1c0470bf1d52641889cb387
     font-size: 18px;
     line-height: 1.3em;
     text-transform: uppercase;
@@ -17074,11 +16894,6 @@ html.touch .squarespace-comments .comments-content .comment-list .comment .comme
     font-style: normal
 }
 .quote-font {
-<<<<<<< HEAD
-    font-family: "futura-pt";
-=======
-    font-family: "futura-pt" !important;
->>>>>>> 33b8e58e0884ea46a1c0470bf1d52641889cb387
     font-size: 28px;
     line-height: 1.4em;
     letter-spacing: 0px;
@@ -17086,22 +16901,12 @@ html.touch .squarespace-comments .comments-content .comment-list .comment .comme
     font-style: normal
 }
 .summary-heading-font {
-<<<<<<< HEAD
-    font-family: "futura-pt";
-=======
-    font-family: "futura-pt" !important;
->>>>>>> 33b8e58e0884ea46a1c0470bf1d52641889cb387
     text-transform: uppercase;
     letter-spacing: 1px;
     font-weight: 400;
     font-style: normal
 }
 .subnav-title-font {
-<<<<<<< HEAD
-    font-family: "futura-pt";
-=======
-    font-family: "futura-pt" !important;
->>>>>>> 33b8e58e0884ea46a1c0470bf1d52641889cb387
     font-size: 32px;
     text-transform: none;
     text-decoration: none;
@@ -17119,11 +16924,6 @@ html.touch .squarespace-comments .comments-content .comment-list .comment .comme
     font-style: normal
 }
 .footer-nav-font {
-<<<<<<< HEAD
-    font-family: "futura-pt";
-=======
-    font-family: "futura-pt" !important;
->>>>>>> 33b8e58e0884ea46a1c0470bf1d52641889cb387
     font-size: 14px;
     text-transform: uppercase;
     text-decoration: none;
@@ -17132,11 +16932,6 @@ html.touch .squarespace-comments .comments-content .comment-list .comment .comme
     font-style: normal
 }
 .site-info-font {
-<<<<<<< HEAD
-    font-family: "futura-pt";
-=======
-    font-family: "futura-pt" !important;
->>>>>>> 33b8e58e0884ea46a1c0470bf1d52641889cb387
     font-size: 14px;
     text-transform: uppercase;
     text-decoration: none;
@@ -17245,44 +17040,24 @@ html.touch .squarespace-comments .comments-content .comment-list .comment .comme
     text-align: left
 }
 .small-button-block-font {
-<<<<<<< HEAD
-    font-family: "futura-pt";
-=======
-    font-family: "futura-pt" !important;
->>>>>>> 33b8e58e0884ea46a1c0470bf1d52641889cb387
     text-transform: uppercase;
     letter-spacing: 3px;
     font-weight: 300;
     font-style: normal
 }
 .medium-button-block-font {
-<<<<<<< HEAD
-    font-family: "futura-pt";
-=======
-    font-family: "futura-pt" !important;
->>>>>>> 33b8e58e0884ea46a1c0470bf1d52641889cb387
     text-transform: uppercase;
     letter-spacing: 2px;
     font-weight: 500;
     font-style: normal
 }
 .large-button-block-font {
-<<<<<<< HEAD
-    font-family: "futura-pt";
-=======
-    font-family: "futura-pt" !important;
->>>>>>> 33b8e58e0884ea46a1c0470bf1d52641889cb387
     text-transform: uppercase;
     letter-spacing: 3px;
     font-weight: 500;
     font-style: normal
 }
 .system-button-font {
-<<<<<<< HEAD
-    font-family: "futura-pt";
-=======
-    font-family: "futura-pt" !important;
->>>>>>> 33b8e58e0884ea46a1c0470bf1d52641889cb387
     text-transform: uppercase;
     letter-spacing: 3px;
     font-weight: 300;
